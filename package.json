@@ -1,0 +1,18 @@
+{
+  "name": "profile",
+  "main": "./lib/profile",
+  "version": "0.0.0",
+  "description": "A package that tells you the profile in use",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "profile:toggle"
+  },
+  "repository": "https://github.com/Esse78/profile.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

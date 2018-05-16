@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle profile",
+        "command": "profile:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "profile",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "profile:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
