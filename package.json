@@ -1,7 +1,7 @@
 {
   "name": "profile",
   "main": "./lib/profile",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A package that tells you the profile in use",
   "keywords": [
   ],
