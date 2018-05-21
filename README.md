@@ -2,7 +2,7 @@
 
 An Atom package that shows the profile in use
 
-# Use
+# Usage
 
 ctr+alt+o to activate
 
